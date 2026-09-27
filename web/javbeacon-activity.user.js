@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Net005/JAVBeacon
 // @version      1.0.0
 // @description  Adds O count, play count, played duration, and a +1 O button to JAVBeacon-backed item pages in Jellyfin Web. No server-side plugin (e.g. Jellyfin-JavaScript-Injector) required - just a userscript manager.
-// @author       Rick
+// @author       Net005
 // @match        *://*/web/*
 // @match        *://*/*index.html*
 // @run-at       document-idle
